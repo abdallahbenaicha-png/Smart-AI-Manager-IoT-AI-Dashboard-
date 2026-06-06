@@ -1,6 +1,7 @@
 # 🧠 Smart AI Manager
 
 An IoT + AI system that monitors environmental data and makes intelligent decisions in real-time.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/901bc1dc-1f13-4075-8c3a-5ca8a926f9b3" />
 
 ## 🚀 Features
 - Real-time temperature monitoring
